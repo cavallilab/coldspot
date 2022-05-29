@@ -1,3 +1,5 @@
+0. DOWNLOAD SEQUENCES FROM GISAID
+Register to GISAID to obtain spikeprot sequences. As sequences cannot be distributed to third parthy the file below contais dummy data.
 1. Compile c++ code
 g++ -o analz-spike analz-spike.cpp -O9
 g++ -o combine-all combine-all.cpp -O9
