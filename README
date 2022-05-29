@@ -1,0 +1,10 @@
+1. Compile c++ code
+g++ -o analz-spike analz-spike.cpp -O9
+g++ -o combine-all combine-all.cpp -O9
+
+
+2.INSTALL BLASTP
+If not already done install the ncbi blast package.
+https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download
+
+ 
